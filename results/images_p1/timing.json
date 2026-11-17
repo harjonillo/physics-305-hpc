@@ -1,0 +1,26 @@
+{
+  "ranks": 1,
+  "n": 256,
+  "length": 1.0,
+  "image_size": 800,
+  "ghost_layers": 19,
+  "times": {
+    "generate": 0.030551999999999913,
+    "gradient": 0.10525000000000007,
+    "contour": 0.3588880000000001,
+    "stream": 0.48423800000000017,
+    "render_iso": 1.1735030000000002,
+    "render_stream": 0.13602700000000034,
+    "render_volume": 0.5888339999999999,
+    "composite": 0.0190570000000001,
+    "processing": 0.9483760000000003,
+    "render": 1.8983640000000004,
+    "pipeline": 2.8963490000000007
+  },
+  "wall_including_setup": 2.9263449999999995,
+  "triangles": 4665572,
+  "streamlines": 7979,
+  "streamline_points": 190526,
+  "points_with_ghosts": 16777216,
+  "points_owned": 16777216
+}
